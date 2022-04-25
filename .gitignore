@@ -1,0 +1,15 @@
+# Virtual environment
+env/
+venv/
+virtualenv/
+.env
+
+# Editor
+.idea/
+.vscode/
+
+# Byte-compiled
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
