@@ -1,8 +1,0 @@
-Index,Category,Face 1 in file test_img.jpg
-0,FilePath,data/vision_input/test_img.jpg
-1,FileName,test_img.jpg
-2,Bounds,"['(726,134)', '(1307,134)', '(1307,810)', '(726,810)']"
-3,JOY,VERY_LIKELY
-4,ANGER,VERY_UNLIKELY
-5,SORROW,VERY_UNLIKELY
-6,SURPRISE,VERY_UNLIKELY
